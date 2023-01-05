@@ -76,6 +76,12 @@ main {
   .btn > span {
     display: none;
   }
+  .dice {
+    left: 90% !important;
+    top: 26.5rem !important;
+    transform: translateX(-50%) !important;
+    height: 8rem !important;
+  }
 }
 
 .player {
